@@ -1,0 +1,40 @@
+.button {
+
+    -fx-background-radius: 50;
+    -fx-pref-width: 50;
+    -fx-pref-height: 50;
+    -fx-border-color: #26292b;
+    -fx-border-style: solid;
+    -fx-border-width: 2;
+    -fx-border-radius: 50;
+}
+#Previous{
+    -fx-background-image: url("pervious.png");
+    -fx-background-size: 30;
+    -fx-background-radius: 30;
+    -fx-pref-width: 30;
+    -fx-pref-height: 30;
+}
+
+#Next{
+    -fx-background-image: url("next.png");
+    -fx-background-size: 30;
+    -fx-background-radius: 30;
+    -fx-pref-width: 30;
+    -fx-pref-height: 30;
+}
+
+#Play{
+    -fx-background-image: url("play.png");
+    -fx-background-size: 50;
+
+}
+
+#Cover{
+    -fx-background-image: url("icon.jpeg");
+    -fx-background-size: 30;
+    -fx-background-radius: 30;
+    -fx-pref-width: 30;
+    -fx-pref-height: 30;
+}
+
